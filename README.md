@@ -1,8 +1,13 @@
 # GRAMATICA_CALCULADORA_BISON
- *Manuel Cardenas
- *Juan Wilches
- *Bryan Ariza
- *Andres Toledo
+
+Este proyecto fue desarrollado por:
+
+- Manuel Cárdenas
+- Juan Wilches
+- Bryan Ariza
+- Andrés Toledo
+
+
  
 Descripción: En este problema, se busca utilizar BISON, una herramienta para la generación de analizadores sintácticos, para implementar y ejecutar una calculadora que pueda realizar operaciones matemáticas básicas y manejar errores.
 1. Precedencia con Gramática Normal -> +, - , * /
